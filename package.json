@@ -1,12 +1,15 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron_sc",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lotus-Michael/electron_sc.git"
+  },
   "keywords": [
     "Electron",
     "quick",
@@ -15,8 +18,12 @@
     "demo"
   ],
   "author": "GitHub",
-  "license": "CC0-1.0",
+  "license": "UNLICENSED",
   "devDependencies": {
-    "electron": "^30.0.0"
-  }
+    "electron": "^30.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/lotus-Michael/electron_sc.git"
+  },
+  "homepage": "https://github.com/lotus-Michael/electron_sc.git"
 }
