@@ -23,7 +23,7 @@ body {
 
 #square {
   position: absolute;
-  background-color: green; /* Измененный цвет */
+  background-color: green;
   opacity: 0.5;
 }
 
